@@ -8,10 +8,15 @@
 
 - 📫 How to reach me:
  🌐Socials:
-[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/twitter/follow/aabhishekap_
-)
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/abhishek-patil-17b76825a)
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](patilap1854@gmail.com)
+<div id="badges">
+  <a href="www.linkedin.com/in/abhishek-patil-17b76825a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="aabhishekap_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 💻Tech Stack:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -23,7 +28,12 @@ https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoCol
 https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 
 📊GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabhishek-patil&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabhishek-patil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+#Profile Details
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabhishek-patil&theme=github_dark
+
+#Top Languages Used
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aabhishek-patil&theme=github_dark
+
+#GitHub Status Card
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aabhishek-patil&theme=github_dark
 -->
