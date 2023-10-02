@@ -13,7 +13,6 @@
 - ⚡ Fun fact: I love learning new things.
 <br>  
 
-- 📫 How to reach me:
   
 # 🌐Socials:
  
@@ -22,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Faabhishekap_">&nbsp;
-<center><img src="https://komarev.com/ghpvc/?username=aabhishek-patil&style=flat-square&color=blue" alt=""/></center>
+<img src="https://komarev.com/ghpvc/?username=aabhishek-patil&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 
@@ -35,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
 </div>
 <br>
 
