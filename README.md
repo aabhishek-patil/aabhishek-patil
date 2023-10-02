@@ -19,6 +19,8 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-patil-17b76825a/) &nbsp;[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aabhishekap_) &nbsp; [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aabhishekpatil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aabhishek.patil_/)
+
 <img src="https://komarev.com/ghpvc/?username=aabhishek-patil&style=flat-square&color=blue" alt=""/>
 <br>
 
