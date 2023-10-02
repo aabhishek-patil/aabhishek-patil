@@ -12,19 +12,14 @@
 - 👯 I’m looking for an internship opportunity.
 - ⚡ Fun fact: I love learning new things.
 <br>  
-
   
 # 🌐Socials:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="www.linkedin.com/in/abhishek-patil-17b76825a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
-  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Faabhishekap_">&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/abhishek-patil-17b76825a/)) &nbsp;[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aabhishekap_) &nbsp; [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aabhishekpatil)
 <img src="https://komarev.com/ghpvc/?username=aabhishek-patil&style=flat-square&color=blue" alt=""/>
-</div>
 <br>
 
 # 💻Tech Stack:
@@ -56,4 +51,7 @@
 ## GitHub Stats Card
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aabhishek-patil&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aabhishek-patil&theme=zenburn&utcOffset=8)
+
+## Trophy Stats
+![](https://github-profile-trophy.vercel.app/?username=aabhishek-patil)
 
